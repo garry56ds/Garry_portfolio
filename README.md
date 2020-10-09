@@ -1,6 +1,6 @@
 # Garry_portfolio
 Data Science Portfolio
-##  Titanic: Machine Learning from Disaster
+##  [Titanic: Machine Learning from Disaster](https://github.com/garry56ds/Garry_portfolio)
 
 ###   Predict Survival on the Titanic
 ####    Exploratory Data Analysis
@@ -11,4 +11,6 @@ Data Science Portfolio
  5. Cabin class breakup of Survived Vs Dead
  6. Age Distribution
  7. Breakup by Spouse or child
+ 
+ 
 
