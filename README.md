@@ -4,11 +4,11 @@ Data Science Portfolio
 
 ###   Predict Survival on the Titanic
 ####    Exploratory Data Analysis
-Identifying Null data
-Cleaning Null data
-Survived Vs Dead Graph
-Gender breakup of Survived Vs Dead
-Cabin class breakup of Survived Vs Dead
-Age Distribution
-Breakup by Spouse or child
-c
+ 1. Identifying Null data
+ 2. Cleaning Null data
+ 3. Survived Vs Dead Graph
+ 4. Gender breakup of Survived Vs Dead
+ 5. Cabin class breakup of Survived Vs Dead
+ 6. Age Distribution
+ 7. Breakup by Spouse or child
+
